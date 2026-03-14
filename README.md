@@ -14,8 +14,3 @@ A simple Tic Tac Toe game built using JavaScript.
 - CSS
 - JavaScript
 
-## Installation
-git clone https://github.com/username/tic-tac-arena.git
-
-## Run Project
-open index.html
